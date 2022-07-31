@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cv-generator/static/css/main.8654708a.css",
+    "main.js": "/cv-generator/static/js/main.3b0022a0.js",
+    "static/media/profile.jpg": "/cv-generator/static/media/profile.990bf8344d8845fea242.jpg",
+    "index.html": "/cv-generator/index.html",
+    "main.8654708a.css.map": "/cv-generator/static/css/main.8654708a.css.map",
+    "main.3b0022a0.js.map": "/cv-generator/static/js/main.3b0022a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8654708a.css",
+    "static/js/main.3b0022a0.js"
+  ]
+}
