@@ -1,0 +1,14 @@
+input{
+    outline: none;
+    border: none;
+    background-color: rgba(114, 57, 95, 0.096);
+    font-size: 1rem;
+    padding: .5rem;
+}
+.form-label{
+    display: grid;
+    width: 80%;
+    margin: .5rem auto;
+    color: rgb(65, 63, 63);
+    
+}

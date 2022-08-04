@@ -1,0 +1,19 @@
+h3{
+    color: rgb(114, 57, 95);
+}
+.detailsH3{
+    display: inline-grid;
+    margin: 0 .5rem;
+}
+.detailsP{
+    display: inline-grid;
+    margin: 0 .5rem;
+    color: rgb(75, 73, 73);
+}
+.detailsDiv{
+    border: 1px solid rgb(114, 57, 95);
+    width: 80%;
+    margin: .5rem auto;
+    padding: .1rem;
+    border-radius: 5px;
+}

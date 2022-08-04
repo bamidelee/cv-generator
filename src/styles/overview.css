@@ -1,0 +1,13 @@
+button{
+    display:block;
+    width: 60%;
+    margin: .5rem auto;
+    background-color: rgb(114, 57, 95);
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-size: 1rem;
+  
+
+}
